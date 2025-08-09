@@ -1,0 +1,9 @@
+tensorflow>=2.4.0
+imutils
+opencv-python
+opencv-contrib-python
+numpy
+smbus2
+mlx90614
+RPi.GPIO
+notify2
