@@ -43,8 +43,8 @@ It also integrates with a **temperature sensor** and **gate control system** for
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/msaad-dot/face-mask-detection
+cd face-mask-detection
 ```
 
 2. **Create a virtual environment** (optional but recommended)
